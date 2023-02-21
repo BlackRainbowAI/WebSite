@@ -1,14 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-	apiKey: "", // TODO Replace with your API key
-	appId: "", // TODO Replace with your app ID
-	authDomain: "", // TODO Replace with your auth domain
-	databaseURL: "", // TODO Replace with your database URL
-	measurementId: "", // TODO Replace with your measurement ID
-	messagingSenderId: "", // TODO Replace with your messaging sender ID
-	projectId: "", // TODO Replace with your project ID
-	storageBucket: "", // TODO Replace with your storage bucket
+	apiKey: "AIzaSyDJd7RlAawSDTDbLgxrGeoJcGJRtJxvYoo",
+	appId: "1:459237842628:web:5933d0f00a6202b6863391",
+	authDomain: "black-rainbow.firebaseapp.com",
+	measurementId: "G-96FE9JQEFV",
+	messagingSenderId: "459237842628",
+	projectId: "black-rainbow",
+	storageBucket: "black-rainbow.appspot.com",
 };
 
 initializeApp(firebaseConfig);

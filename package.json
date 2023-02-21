@@ -3,11 +3,11 @@
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/blackrainbow/blackrainbow.media.git"
+		"url": "https://github.com/BlackRainbowAI/blackrainbow.media.git"
 	},
-	"homepage": "https://github.com/blackrainbow/blackrainbow.media#readme",
+	"homepage": "https://github.com/BlackRainbowAI/blackrainbow.media#readme",
 	"bugs": {
-		"url": "https://github.com/blackrainbow/blackrainbow.media/issues"
+		"url": "https://github.com/BlackRainbowAI/blackrainbow.media/issues"
 	},
 	"license": "MIT",
 	"private": true,
