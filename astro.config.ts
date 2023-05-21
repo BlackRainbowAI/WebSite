@@ -8,7 +8,12 @@ import { defineConfig } from "astro/config";
 import worker from "astrojs-service-worker";
 
 export default defineConfig({
+<<<<<<< HEAD
 	site: "https://blackrainbow.media",
+=======
+	// TODO Place your site URL here
+	// site: "",
+>>>>>>> upstream/main
 	experimental: {
 		assets: true,
 	},
