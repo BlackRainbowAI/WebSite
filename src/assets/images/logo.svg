@@ -1,0 +1,21 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<rect width="1024" height="1024" fill="black" />
+	<g style="mix-blend-mode:hard-light" opacity="0.5">
+		<path d="M316 960L316 65L419 65L419 960L316 960Z" fill="#FF8D00" />
+	</g>
+	<g style="mix-blend-mode:hard-light" opacity="0.5">
+		<path d="M523 960L523 65L627 65L627 960L523 960Z" fill="#028121" />
+	</g>
+	<g style="mix-blend-mode:hard-light" opacity="0.5">
+		<path d="M730 960L730 65L834 65L834 960L730 960Z" fill="#770088" />
+	</g>
+	<g style="mix-blend-mode:hard-light" opacity="0.5">
+		<path d="M627 960L627 65L730 65L730 960L627 960Z" fill="#004CFF" />
+	</g>
+	<g style="mix-blend-mode:hard-light" opacity="0.5">
+		<path d="M419 960L419 65L523 65L523 960L419 960Z" fill="#FFEE00" />
+	</g>
+	<g style="mix-blend-mode:hard-light" opacity="0.5">
+		<path d="M212 960L212 65L316 65L316 960L212 960Z" fill="#E50000" />
+	</g>
+</svg>
