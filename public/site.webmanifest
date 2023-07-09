@@ -1,10 +1,10 @@
 {
 	"background_color": "#000000",
-	"theme_color": "#000000",
-	"name": "Black Rainbow",
-	"short_name": "blackrainbow",
-	"display": "minimal-ui",
-	"start_url": "/",
 	"categories": [],
-	"orientation": "landscape"
+	"display": "minimal-ui",
+	"name": "Black Rainbow",
+	"orientation": "landscape",
+	"short_name": "blackrainbow",
+	"start_url": "/",
+	"theme_color": "#000000"
 }
