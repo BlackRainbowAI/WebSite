@@ -1,13 +1,9 @@
 {
-	"name": "astro-starter-template",
+	"name": "blackrainbow-web",
 	"version": "0.0.1",
-	"private": false,
-	"keywords": [
-		"astro",
-		"starter"
-	],
+	"private": true,
+	"homepage": "https://github.com/BlackRainbowAI/blackrainbow.media#readme",
 	"bugs": {
-<<<<<<< HEAD
 		"url": "https://github.com/BlackRainbowAI/blackrainbow.media/issues"
 	},
 	"repository": {
@@ -18,23 +14,6 @@
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
-=======
-<<<<<<< HEAD
-		"url": "https://github.com/Lightrix/astro-starter-template/issues"
-=======
-		"url": "https://github.com/Playform/blank-web-starter/issues"
-	},
-	"license": "MIT",
-	"private": false,
-	"keywords": [
-		"astro",
-		"starter"
-	],
-	"scripts": {
-		"build": "astro check && astro build",
-		"start": "astro dev"
->>>>>>> upstream/main
->>>>>>> upstream/main
 	},
 	"devDependencies": {
 		"@astrojs/prefetch": "0.2.3",
