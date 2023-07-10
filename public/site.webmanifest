@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"background_color": "#000000",
+=======
+	"background_color": "// TODO Set the background color of the app",
+>>>>>>> upstream/main
 	"categories": [],
 	"display": "minimal-ui",
 	"name": "Black Rainbow",
