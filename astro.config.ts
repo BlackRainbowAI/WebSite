@@ -11,6 +11,7 @@ export default defineConfig({
 	site: "https://blackrainbow.media",
 	experimental: {
 		assets: true,
+		viewTransitions: true,
 	},
 	compressHTML: true,
 	integrations: [
