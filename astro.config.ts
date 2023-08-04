@@ -9,7 +9,7 @@ import worker from "astrojs-service-worker";
 export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
-	outDir: "./Dist",
+	outDir: "./Build",
 	site: "https://blackrainbow.media",
 	experimental: {
 		assets: true,
