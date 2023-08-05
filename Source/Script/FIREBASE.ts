@@ -1,6 +1,6 @@
-import { initializeApp } from "firebase/app";
+import { initializeApp as Initialize } from "firebase/app";
 
-const firebaseConfig = {
+Initialize({
 	apiKey: "AIzaSyDJd7RlAawSDTDbLgxrGeoJcGJRtJxvYoo",
 	authDomain: "black-rainbow.firebaseapp.com",
 	projectId: "black-rainbow",
@@ -8,6 +8,4 @@ const firebaseConfig = {
 	messagingSenderId: "459237842628",
 	appId: "1:459237842628:web:5933d0f00a6202b6863391",
 	measurementId: "G-96FE9JQEFV",
-};
-
-initializeApp(firebaseConfig);
+});
