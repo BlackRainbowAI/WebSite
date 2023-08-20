@@ -1,8 +1,13 @@
 ---
 import "@Style/Base.css";
 
-const { title = "Black Rainbow", description = "News AI organization." } =
+const { Title = "Black Rainbow", Description = "News AI organization." } =
 	Astro.props;
+
+interface Props {
+	Title: string;
+	Description: string;
+}
 ---
 
 <!DOCTYPE html>
@@ -14,9 +19,9 @@ const { title = "Black Rainbow", description = "News AI organization." } =
 		</script>
 
 		<!-- Meta -->
-		<title>{title}</title>
+		<title>{Title}</title>
 		<meta charset="utf-8" />
-		<meta name="description" content={description} />
+		<meta name="description" content={Description} />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<meta name="theme-color" content="#000000" />
 		<meta name="format-detection" content="telephone=no" />
