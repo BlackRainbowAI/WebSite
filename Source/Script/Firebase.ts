@@ -7,3 +7,5 @@
 	appId: "1:459237842628:web:5933d0f00a6202b6863391",
 	measurementId: "G-96FE9JQEFV",
 });
+
+export {};
