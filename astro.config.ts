@@ -12,12 +12,16 @@ export default (await import("astro/config")).defineConfig({
 		// (await import("astro-critters")).default({ Logger: 1 }),
 		(await import("@astrojs/prefetch")).default(),
 		// (await import("astro-rome")).default({ Logger: 1 }),
+<<<<<<< HEAD
 		(await import("astro-compress")).default({
 			Logger: 1,
 			HTML: {
 				caseSensitive: true,
 			},
 		}),
+=======
+		(await import("astro-compress")).default({ Logger: 1 }),
+>>>>>>> upstream/main
 	],
 	vite: {
 		build: {
