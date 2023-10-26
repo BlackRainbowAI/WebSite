@@ -20,13 +20,6 @@ export default (await import("astro/config")).defineConfig({
 	vite: {
 		build: {
 			sourcemap: true,
-<<<<<<< HEAD
 		}
-=======
-		},
-		css: {
-			devSourcemap: true,
-		},
->>>>>>> upstream/main
 	},
 });
