@@ -4,6 +4,9 @@ export default (await import("astro/config")).defineConfig({
 	outDir: "./Target",
 	site: "https://blackrainbow.media",
 	compressHTML: true,
+	experimental: {
+		devOverlay: true,
+	},
 	integrations: [
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()
@@ -17,6 +20,6 @@ export default (await import("astro/config")).defineConfig({
 	vite: {
 		build: {
 			sourcemap: true,
-		},
+		}
 	},
 });
