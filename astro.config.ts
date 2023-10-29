@@ -20,6 +20,8 @@ export default (await import("astro/config")).defineConfig({
 	vite: {
 		build: {
 			sourcemap: true,
-		}
+		},
 	},
-});
+}) as typeof defineConfig;
+
+import type { defineConfig } from "astro/config";
