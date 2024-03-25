@@ -2,19 +2,19 @@
 	"name": "@website/blackrainbow_media",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "https://github.com/BlackRainbowAI/blackrainbow.media#readme",
+	"homepage": "HTTPS://GitHub.Com/BlackRainbowAI/blackrainbow.media#readme",
 	"bugs": {
-		"url": "https://github.com/BlackRainbowAI/blackrainbow.media/issues"
+		"url": "HTTPS://GitHub.Com/BlackRainbowAI/blackrainbow.media/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/BlackRainbowAI/blackrainbow.media.git"
+		"url": "git+HTTPS://GitHub.Com/BlackRainbowAI/blackrainbow.media.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "https://NikolaHristov.Tech"
+		"url": "HTTPS://NikolaHristov.Tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",
