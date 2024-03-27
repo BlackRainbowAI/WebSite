@@ -1,5 +1,3 @@
-# [blackrainbow.media] 🌈
+# 🗺️ [Website]
 
-BlackRainbow.media main website.
-
-[blackrainbow.media]: https://blackrainbow.media
+[Website]: https://blackrainbow.media
