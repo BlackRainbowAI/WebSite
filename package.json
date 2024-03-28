@@ -13,8 +13,8 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
-		"email": "Nikola@Playform.Cloud",
-		"url": "https://NikolaHristov.Tech"
+		"email": "Nikola@playform.cloud",
+		"url": "https://nikolahristov.tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",
@@ -45,7 +45,7 @@
 		"postcss-reporter": "7.1.0",
 		"tailwindcss": "3.4.3",
 		"typescript": "5.4.3",
-		"typescript-esbuild": "0.4.8",
+		"typescript-esbuild": "0.4.9",
 		"zod": "3.22.4"
 	},
 	"publishConfig": {
