@@ -1,6 +1,6 @@
 ---
 import Logo from "@Asset/Image/Logo.svg";
-import Base from "@Layout/Base.astro";
+const Base = (await import("@Layout/Base.astro")).default;
 ---
 
 <Base>
