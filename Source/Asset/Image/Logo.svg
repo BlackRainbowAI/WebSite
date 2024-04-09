@@ -1,5 +1,4 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none"
-	xmlns="http://www.w3.org/2000/svg">
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
 	<rect width="1024" height="1024" fill="black" />
 	<g style="mix-blend-mode:hard-light" opacity="0.5">
 		<path d="M316 960L316 65L419 65L419 960L316 960Z" fill="#FF8D00" />
