@@ -1,3 +1,3 @@
-# 🗺️ [Website] —
+# 🗺️ [WebSite] —
 
-[Website.]: https://blackrainbow.media
+[WebSite.]: https://blackrainbow.media
