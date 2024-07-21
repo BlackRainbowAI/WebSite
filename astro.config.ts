@@ -6,6 +6,7 @@ export default (await import("astro/config")).defineConfig({
 	compressHTML: true,
 	prefetch: true,
 	integrations: [
+		// @ts-ignore
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()
 			: null,
