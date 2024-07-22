@@ -1,7 +1,21 @@
 {
+<<<<<<< HEAD
 	"compilerOptions": {
 		"baseUrl": "./",
 		"types": ["astro/client", "astro/env"]
 	},
 	"extends": "@playform/build/tsconfig"
+=======
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"compilerOptions": {
+		"baseUrl": "./",
+		"emitDeclarationOnly": false,
+		"noEmit": true,
+		"outDir": "Target",
+		"rootDir": ".",
+		"types": ["astro/client", "astro/env"]
+	},
+	"extends": "@playform/build/tsconfig",
+	"include": ["Source"]
+>>>>>>> Fork/Current
 }

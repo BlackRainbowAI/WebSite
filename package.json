@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "@website/blackrainbow_media",
 	"version": "0.0.1",
 	"private": true,
@@ -23,6 +24,37 @@
 	"dependencies": {
 		"@astrojs/check": "0.8.2",
 		"@astrojs/prefetch": "0.4.1",
+=======
+	"name": "@playform/starter",
+	"version": "0.0.1",
+	"private": false,
+	"description": "📄 Starter —",
+	"keywords": [
+		"astro",
+		"starter",
+		"skeleton",
+		"playform"
+	],
+	"homepage": "HTTPS://GitHub.Com/PlayForm/Starter#readme",
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/PlayForm/Starter/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PlayForm/Starter.git"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"author": {
+		"name": "🖋️ Source — 👐🏻 Open —",
+		"email": "Source/Open@PlayForm.Cloud",
+		"url": "HTTPS://PlayForm.Cloud"
+	},
+	"scripts": {
+		"Run": "astro dev",
+		"prepublishOnly": "astro build"
+	},
+	"dependencies": {
+>>>>>>> Fork/Current
 		"@astrojs/sitemap": "3.1.6",
 		"@playform/build": "0.1.1",
 		"@playform/compress": "0.0.13",
@@ -45,11 +77,20 @@
 		"postcss-import": "16.1.0",
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.3",
+<<<<<<< HEAD
+=======
+		"solid-js": "1.8.18",
+>>>>>>> Fork/Current
 		"tailwindcss": "*",
 		"typescript": "*",
 		"zod": "*"
 	},
 	"publishConfig": {
+<<<<<<< HEAD
 		"access": "restricted"
+=======
+		"provenance": true,
+		"access": "public"
+>>>>>>> Fork/Current
 	}
 }
