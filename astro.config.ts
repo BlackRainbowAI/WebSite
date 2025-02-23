@@ -42,4 +42,4 @@ export default (await import("astro/config")).defineConfig({
 			transformer: "postcss",
 		},
 	},
-}) as typeof defineConfig;
+}) as defineConfig;
