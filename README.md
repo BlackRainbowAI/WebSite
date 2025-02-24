@@ -1,3 +1,3 @@
-# [WebSite] 🗾
+# [WebSite 🗾]
 
-[WebSite]: HTTPS://blackrainbow.media
+[WebSite 🗾]: HTTPS://blackrainbow.media
