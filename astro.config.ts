@@ -35,7 +35,7 @@ export default (await import("astro/config")).defineConfig({
 			sourcemap: true,
 		},
 		resolve: {
-			preserveSymlinks: true,
+			preserveSymlinks: false,
 		},
 		css: {
 			devSourcemap: true,
