@@ -1,6 +1,6 @@
-import type { defineConfig } from "astro/config";
+import { defineConfig } from "astro/config";
 
-export default (await import("astro/config")).defineConfig({
+export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
@@ -42,4 +42,4 @@ export default (await import("astro/config")).defineConfig({
 			transformer: "postcss",
 		},
 	},
-}) as defineConfig;
+});
