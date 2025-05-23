@@ -2,9 +2,9 @@
 	"name": "@website/blackrainbow_media",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "HTTPS://GitHub.Com/BlackRainbowAI/blackrainbow.media#readme",
+	"homepage": "https://GitHub.Com/BlackRainbowAI/blackrainbow.media#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/BlackRainbowAI/blackrainbow.media/issues"
+		"url": "https://GitHub.Com/BlackRainbowAI/blackrainbow.media/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 	"author": {
 		"name": "Source 🖋️ Open 👐🏻",
 		"email": "Source/Open@Editor.Land",
-		"url": "HTTPS://Editor.Land"
+		"url": "https://Editor.Land"
 	},
 	"scripts": {
 		"Start": "astro dev",

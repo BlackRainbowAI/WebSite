@@ -4,7 +4,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://BlackRainbow.Media",
+	site: "https://BlackRainbow.Media",
 	compressHTML: true,
 	prefetch: {
 		defaultStrategy: "hover",
